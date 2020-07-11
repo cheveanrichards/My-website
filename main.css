@@ -1,0 +1,64 @@
+
+body {	
+	background-image: url("https://www.menerga-adria.com/wp-content/uploads/sites/2/2017/10/server_room_data_center_HVAC_.jpg");
+	background-size: cover;
+	font-family: Josefin Slab;
+	background-repeat: repeat;
+	background-position: center;
+	
+}
+html{
+	height: 100%;
+}
+
+#contan{
+	background: black;
+	text-align: center;
+	margin: 20%;
+	opacity: 0.9;
+	text-shadow:  1px 1px 2px #DDDDDD;
+	text-transform: uppercase;
+	  border-radius: 50px;
+	/*
+	background-repeat: no-repeat;
+	background-size: contain;*/	
+}
+#contan2{
+	background-size: cover;
+	background: black;
+	text-align: left;
+	text-shadow:  1px 1px 2px #DDDDDD;
+	margin: 10%;
+	opacity: 0.9;
+	  border-radius: 15px;
+	/*
+	background-repeat: no-repeat;
+	background-size: contain;*/	
+}
+
+h1	{
+	
+	color: #ffffff;
+	font-weight: 900;	
+	font-size: 6em;
+}
+
+h3{
+	font-size: 3em;
+	color: #ffffff;
+}
+h2{
+	font-size: 1em;
+	color: #ffffff;
+}
+p{
+
+	  line-height: 1.6;
+}
+img{
+
+	border: 1px solid #ddd;
+  border-radius: 25px;
+  padding: 5px;
+  width: 120px;
+}
