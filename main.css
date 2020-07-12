@@ -11,10 +11,12 @@ html{
 	height: 100%;
 }
 
-#contan{
-	background: black;
+.container{
+	background-color: black;
+	background-position: center;
 	text-align: center;
 	margin: 20%;
+	padding: 0.2%;
 	opacity: 0.9;
 	text-shadow:  1px 1px 2px #DDDDDD;
 	text-transform: uppercase;
@@ -26,16 +28,34 @@ html{
 #contan2{
 	background-size: cover;
 	background: black;
-	text-align: left;
+	text-align: center;
+	color: #ffffff;
 	text-shadow:  1px 1px 2px #DDDDDD;
 	margin: 10%;
+	padding: .2%;
 	opacity: 0.9;
+	font-size: 20px;
 	  border-radius: 15px;
 	/*
 	background-repeat: no-repeat;
 	background-size: contain;*/	
 }
 
+#contan3{
+	background-size: cover;
+	background: black;
+	text-align: left;
+	color: #ffffff;
+	text-shadow:  1px 1px 2px #DDDDDD;
+	margin: 10%;
+	padding: .2%;
+	opacity: 0.9;
+	font-size: 20px;
+	  border-radius: 15px;
+	/*
+	background-repeat: no-repeat;
+	background-size: contain;*/	
+}
 h1	{
 	
 	color: #ffffff;
